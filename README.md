@@ -4,7 +4,7 @@ Hi 👋 My name is Renan
 Data Analyst
 ------------
 
-* 🌍  I'm based in Limerick, Ireland
+* 🌍  I'm based in Campinas, Brasil.
 * ✉️  You can contact me at [renan.fioramonte@hotmail.com](mailto:renan.fioramonte@hotmail.com)
 
 ### Skills
